@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/isimiyakii" target="blank"><img src="https://img.shields.io/twitter/follow/isimiyakii?logo=twitter&style=for-the-badge" alt="isimiyakii" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
+- 💬 Ask me about **HTML, CSS, PYTHON**
 
 - 📫 How to reach me **Isi_eguakhide@yahoo.com**
 

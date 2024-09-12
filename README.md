@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![MasterHead](https://i0.wp.com/webcodeflow.com/wp-content/uploads/2021/04/Pixel-Banner.gif?fit=540%2C246&ssl=1)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Isikhuemen Eguakhide</h1>
-<h3 align="center">A passionate Software Developer from Nigeria</h3>
+<h3 align="center">A passionate solutions driven Product Designer</h3>
 <img align ="center" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **HTML, CSS, PYTHON**
+- 💬 Ask me about Design
 
 - 📫 How to reach me **Isi_eguakhide@yahoo.com**
 

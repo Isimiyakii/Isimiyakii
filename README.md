@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Isimiyakii/Isimiyakii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Isi-Designs/Isi-Designs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/isimiyakii" target="blank"><img src="https://img.shields.io/twitter/follow/isimiyakii?logo=twitter&style=for-the-badge" alt="isimiyakii" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 Vibe coding
 
 - 💬 Ask me about Design
 
-- 📫 How to reach me **Isi_eguakhide@yahoo.com**
+- 📫 How to reach me **Isieguakhide@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/isikhuemen-eguakhide-29997081/](https://www.linkedin.com/in/isikhuemen-eguakhide-29997081/)
 
